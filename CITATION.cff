@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research code or methodology, please cite this work-in-progress repository."
+title: "Qumran Analytics: Computational Analysis and Hebrew Handwriting Recognition for 1QS"
+authors:
+  - family-names: Fortes
+    given-names: João Paulo
+version: 0.1.0
+date-released: 2026-10-13
+type: software
+abstract: "Research prototype for computer vision, line segmentation, ground-truth curation, and Hebrew handwriting recognition of the Community Rule (1QS). Validation results are preliminary."
